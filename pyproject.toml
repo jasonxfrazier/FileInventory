@@ -1,5 +1,5 @@
 [project]
-name = "finv"
+name = "fileinventory"
 version = "0.1.0"
 description = "Traverse and query Windows file information"
 readme = "README.md"
