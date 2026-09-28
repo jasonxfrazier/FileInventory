@@ -13,4 +13,7 @@ wheels/
 .venv
 
 # Database files
-.db
+*.db
+
+# Test
+test.py

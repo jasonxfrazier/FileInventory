@@ -50,7 +50,7 @@ class FileInventory():
             cutoff_size=0,
             top_n=1,
             target_dir=Path(__file__).resolve().parent.parent,
-            db_path=Path(__file__).resolve().parent.parent / "db" / "default.db",
+            db_path=Path(__file__).resolve().parent.parent.parent / "db" / "default.db",
         )
         self._process()
 
